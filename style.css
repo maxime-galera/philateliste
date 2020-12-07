@@ -1,0 +1,38 @@
+body {
+	background: url('img/fond2.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+    -o-background-size: cover;
+	background-size: cover;
+}
+
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	height: 100px;
+	width: 100%;
+	background-color: rgba(32, 32, 32, 0.575);
+	color: white;
+	text-align: center;
+}
+
+footer .container p {
+	top: 50%;
+}
+
+.timbres-body {
+	background: url('img/fondtimbres.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+    -o-background-size: cover;
+	background-size: cover;
+}
+
+.contact-body {
+    background: url('img/fondcontact.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+    -o-background-size: cover;
+	background-size: cover;
+}
